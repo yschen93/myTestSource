@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int i, j, k;
+    int i, j;
     int score[5][5] = {0};
     int student[5] = {0}, subject[5] = {0};
     int max[5] = {-1, -1, -1, -1, -1}, min[5] = {-1, -1, -1, -1, -1};
