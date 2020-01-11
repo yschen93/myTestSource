@@ -6,7 +6,10 @@ int func(int *i, int *j, int num, char array[][10]);
 
 int main(int argc, char *argv[])
 {
+
+	printf("nihao");
 	printf("hello");
+
     char array[10][10];
     int i, j;
     int isGo = 1;
