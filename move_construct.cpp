@@ -68,7 +68,7 @@ int main(int argc, char* argv[])
 {
 	string s1 = "123";
 	my_string s2 = "456";
-	my_string s3 = s2;
-	my_string s4 = std::move(s3); //调用拷贝构造
-	std::cout << s1 << std::endl; //调用移动构造
+	my_string s3 = s2;            //调用拷贝构造
+	my_string s4 = std::move(s3); //调用移动构造
+	std::cout << s1 << std::endl; 
 }
