@@ -49,10 +49,14 @@ public:
     Move& operator=(Move&& rhs)
     {
         std::cout << "Move& operator=(Move&& rhs)" << std::endl;
-        delete _p;
-        _p = rhs._p;
-        rhs._p = nullptr;
+        if (this != &rhs)
+        {
+            delete _p;
+            _p = rhs._p;
+            rhs._p = nullptr;
+        }
         return *this;
+        
     }
 private:
     int *_p;
