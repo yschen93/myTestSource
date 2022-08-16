@@ -1,0 +1,14 @@
+
+project
+    :   requirements
+        <include>$(CWD)/../include
+    ;
+
+alias dependencies :
+    ;
+
+lib myString
+    :   [ glob *.cpp : abandoned ]
+        dependencies
+    ;
+
