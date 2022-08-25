@@ -1,3 +1,0 @@
-/workspace/local/bin/CMakeFiles/rebuild_cache.dir
-/workspace/local/bin/CMakeFiles/new_source_code.dir
-/workspace/local/bin/CMakeFiles/edit_cache.dir
