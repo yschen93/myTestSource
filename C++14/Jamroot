@@ -1,0 +1,27 @@
+import os ;
+
+constant BOOST_ROOT : [ os.environ BOOST_ROOT ] ;
+path-constant CWD : . ;
+ECHO "path of BOOST_ROOT is " $(BOOST_ROOT) ;
+
+project
+    :   requirements
+        <debug-symbols>on
+        <include>$(BOOST_ROOT)
+        <cxxflags>-std=c++11
+    :   default-build debug
+        <link>shared
+    :   build-dir bin
+    ;
+
+alias dependencies :
+    $(BOOST_ROOT)/stage/lib/libboost_system.so
+    $(BOOST_ROOT)/stage/lib/libboost_thread.so
+    /usr/lib64/libpthread.so
+    ;
+
+exe main
+    :   variadic_templates.cpp
+        dependencies
+    ;
+

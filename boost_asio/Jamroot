@@ -17,12 +17,14 @@ project
 alias dependencies :
     $(BOOST_ROOT)/stage/lib/libboost_system.so
     $(BOOST_ROOT)/stage/lib/libboost_thread.so
+    $(BOOST_ROOT)/stage/lib/libboost_chrono.so
+    $(BOOST_ROOT)/stage/lib/libboost_filesystem.so
     /usr/lib64/libpthread.so
 
     ;
 
-exe boost_asio
-    :   multithread_steady_timer.cpp
+exe sync_timer
+    :   [ glob *.cpp : abandoned ]
         dependencies
     ;
 

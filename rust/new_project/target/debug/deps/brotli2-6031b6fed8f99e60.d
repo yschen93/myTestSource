@@ -1,0 +1,11 @@
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/libbrotli2-6031b6fed8f99e60.rmeta: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs
+
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/libbrotli2-6031b6fed8f99e60.rlib: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs
+
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/brotli2-6031b6fed8f99e60.d: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs
+
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs:

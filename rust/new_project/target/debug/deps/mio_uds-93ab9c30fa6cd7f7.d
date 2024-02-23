@@ -1,0 +1,11 @@
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/libmio_uds-93ab9c30fa6cd7f7.rmeta: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/datagram.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/listener.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/socket.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/stream.rs
+
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/libmio_uds-93ab9c30fa6cd7f7.rlib: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/datagram.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/listener.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/socket.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/stream.rs
+
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/mio_uds-93ab9c30fa6cd7f7.d: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/datagram.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/listener.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/socket.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/stream.rs
+
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/lib.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/datagram.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/listener.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/socket.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mio-uds-0.6.8/src/stream.rs:

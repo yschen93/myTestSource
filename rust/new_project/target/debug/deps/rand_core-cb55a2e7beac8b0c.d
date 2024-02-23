@@ -1,0 +1,11 @@
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/librand_core-cb55a2e7beac8b0c.rmeta: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/error.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/block.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/impls.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/le.rs
+
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/librand_core-cb55a2e7beac8b0c.rlib: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/error.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/block.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/impls.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/le.rs
+
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/rand_core-cb55a2e7beac8b0c.d: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/error.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/block.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/impls.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/le.rs
+
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/lib.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/error.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/block.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/impls.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.4.2/src/le.rs:

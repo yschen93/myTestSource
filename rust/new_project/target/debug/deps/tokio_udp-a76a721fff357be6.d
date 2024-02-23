@@ -1,0 +1,11 @@
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/libtokio_udp-a76a721fff357be6.rmeta: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/frame.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/recv_dgram.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/send_dgram.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/socket.rs
+
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/libtokio_udp-a76a721fff357be6.rlib: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/frame.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/recv_dgram.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/send_dgram.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/socket.rs
+
+/Users/tanxin/sourceCode/workspace/myTestSource/rust/new_project/target/debug/deps/tokio_udp-a76a721fff357be6.d: /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/lib.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/frame.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/recv_dgram.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/send_dgram.rs /Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/socket.rs
+
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/lib.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/frame.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/recv_dgram.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/send_dgram.rs:
+/Users/tanxin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/socket.rs:
